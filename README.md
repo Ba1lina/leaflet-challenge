@@ -1,20 +1,19 @@
 # Leaflet Challenge
 
-This Project aims to identify....
+This Project aims to create a tool for the USGS to visualise their earthquake data, specifically the Significant Earthquakes for the Past 30 Days.
 
 # Project Structure
 
 ```
 project
-|__ .gitignore          # gitignore file
-|__ Project 1 PPT - Group6.pdf    # slides for presentation
-| 
+|__ .gitatrributes          # gitatrributes
+|__ leaflet-part-1      # folder containing files for Part 1 of the challenge
+|  |__ index.html          # HTML file that shows the page
+|  |__ static    # folder that holds the JavaScript
 
 ```
 # Datasets
-Source|Link|
-|-|-|-|
-Australian Bureau of Statistics - Housing|https://www.abs.gov.au/statistics/people/housing/housing-occupancy-and-costs/2019-20|
-Australian Curriculum, Assessment and Reporting Authority|https://www.acara.edu.au/contact-us/acara-data-access|
+|Source|Link|
+|-|-|
+|USGS JSON Data|https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php|
 
-# Analysis
